@@ -64,6 +64,7 @@ services:
       external:
         ipv4_address: 192.168.254.100
 
+
   b2bua_external_02:
     tty: true
     container_name: b2bua_external_02
